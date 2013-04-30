@@ -1,7 +1,7 @@
 {
-  "name": "node-foursquare-2",
+  "name": "foursquare-js",
   "description": "Fault-tolerant Foursquare API v2 wrapper for Node JS.",
-  "version": "0.1.5",
+  "version": "0.1.0",
   "main": "index.js",
   "keywords": [
     "node-foursquare",
@@ -33,7 +33,7 @@
     "express": "~2.5.0"
   },
   "engines": {
-    "node": ">= 0.4.x"
+    "node": ">= 0.10.x"
   },
   "homepage": "https://github.com/gamebox/node-foursquare",
   "author": "Clint Andrew Hall (http://www.clintandrewhall.com) with slight enhancements by Anthony Bullard(anthonybullard.me)",
