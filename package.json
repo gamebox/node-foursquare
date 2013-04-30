@@ -15,15 +15,15 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/gamebox/node-foursquare.git"
+    "url": "git://github.com/dreadjr/node-foursquare.git"
   },
   "bugs": {
-    "url": "https://github.com/gamebox/node-foursquare/issues"
+    "url": "https://github.com/dreadjr/node-foursquare/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/gamebox/node-foursquare/raw/master/LICENSE"
+      "url": "http://github.com/dreadjr/node-foursquare/raw/master/LICENSE"
     }
   ],
   "dependencies": {
@@ -35,8 +35,6 @@
   "engines": {
     "node": ">= 0.10.x"
   },
-  "homepage": "https://github.com/gamebox/node-foursquare",
-  "author": "Clint Andrew Hall (http://www.clintandrewhall.com) with slight enhancements by Anthony Bullard(anthonybullard.me)",
   "directories": {
     "lib": "./lib",
     "doc": "./doc"
